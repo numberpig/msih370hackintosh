@@ -1,1 +1,4 @@
-msi h370 gaming carbon 
+MSI H370 GAMING PRO CARBON + 8500 hackintosh 
+
+
+BIOS version:7B16v12
